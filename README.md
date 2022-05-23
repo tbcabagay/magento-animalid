@@ -1,7 +1,8 @@
 # magento-animalid
 Magento 2 Animalid
 
-![banner](https://raw.githubusercontent.com/tbcabagay/magento-animalid-module/0a6cda1544e48255db4d5e6642d72ddab413cd32/banner.png)
+## Screencast
+[![Watch the screencast](https://raw.githubusercontent.com/tbcabagay/magento-animalid-module/0a6cda1544e48255db4d5e6642d72ddab413cd32/banner.png)](https://youtu.be/VHRzQG0glV8)
 
 ## The test requirements
 This contains the original code from the Razoyo git repository. It also contains the new Magento 2 module for allowing a customer to change the animal photo.
@@ -63,6 +64,3 @@ public function getPhotoFromSession()
 }
 ?>
 ```
-
-## Screencast
-[![Watch the screencast](https://raw.githubusercontent.com/tbcabagay/magento-animalid-module/0a6cda1544e48255db4d5e6642d72ddab413cd32/banner.png)](https://youtu.be/VHRzQG0glV8)
